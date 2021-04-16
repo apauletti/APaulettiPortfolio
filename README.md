@@ -1,1 +1,1 @@
-"# APaulettiPortfolio" 
+# APaulettiPortfolio
